@@ -1,0 +1,2 @@
+# spendz
+Expense Tracking Application
